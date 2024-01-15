@@ -27,7 +27,8 @@ Install:
 
     make install
     
-    
+Works out of box if serial is built in your ros2 workspace.
+
 Sample launch files in roboteq_ros2_driver/launch, or run `ros2 run roboteq_ros2_driver roboteq_ros2_driver`
 
 ## Motor Power Connections
