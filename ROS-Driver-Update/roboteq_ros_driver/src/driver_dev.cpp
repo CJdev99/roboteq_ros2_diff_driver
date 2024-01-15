@@ -133,8 +133,7 @@ namespace Roboteq
         param_update_timer =
           this->create_wall_timer(1000ms, std::bind(&Roboteq::update_params, this));
         */
-        // run();
-    }
+        }
 
     void Roboteq::update_parameters()
     {
